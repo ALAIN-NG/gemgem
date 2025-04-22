@@ -50,7 +50,7 @@
 
 1. **Téléchargez le code source** :
    - Clonez ce dépôt ou téléchargez le fichier ZIP.
-      `git clone https://github.com/LienNonDisponible/gemgem.git`
+      `git clone https://github.com/ALAIN-NG/gemgem.git`
 
 2. **Installez Pygame** :
    - Si vous n'avez pas encore Pygame installé, vous pouvez l'installer via pip :
