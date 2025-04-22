@@ -105,6 +105,6 @@ Ce projet est distribué sous la licence **BSD Simplifiée**. Vous êtes libre d
 Pour toute question, suggestion ou problème, n'hésitez pas à me contacter :  
 **ALAIN GILDAS NGUEUDJANG DJOMO**  
 **Email** : alain.ng.tech@gmail.com  
-**GitHub** : [NG ALAIN](https://github.com/LienNonDisponible)
+**GitHub** : [NG ALAIN](https://github.com/ALAIN-NG)
 
 **Amusez-vous bien avec Gemgem !** 🎮
